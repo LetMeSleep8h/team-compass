@@ -20,6 +20,6 @@ The community events calendar is embedded below for reference:
 
 Our Plaza meetings are community-wide calls, where we come together to catch-up, get working group updates, and discuss any other topics. The meetings are fully remote and open to anyone, particularly those who are interested in joining the community.
 
-We aim to hold these meetings monthly.
+We aim to hold these meetings monthly. You can find the meeting link in the events title "Satyrn Plaza" in the calendar embedded above.
 
 Notes from the previous meetings can be found here: [Plaza notes](plaza/index.md).
