@@ -4,7 +4,7 @@ The Satyrn.ai community meets periodically to discuss important issues, make dec
 
 ## Meeting calendars
 
-- **Satyrn.ai Community Events Calendar**
+- **Satyrn.ai Calendar**
 
 The community events calendar is embedded below for reference:
 
