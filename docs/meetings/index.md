@@ -4,29 +4,20 @@ The Satyrn.ai community meets periodically to discuss important issues, make dec
 
 ## Meeting calendars
 
-These are some calendars worth following:
+- **Satyrn.ai Community Events Calendar**
 
-- [**Satyrn.ai meeting calendar**]
+The community events calendar is embedded below for reference:
 
-
-The meeting calendar is embedded below for quick reference:
-
-TODO: add iframe if desired
+<iframe
+ title="Satyrn.ai Community Events Calendar"
+ src="https://calendar.google.com/calendar/embed?height=600&wkst=2&ctz=Europe%2FLondon&hl=en_GB&showPrint=0&title&src=NDhlYTZmYTY2M2E5MTliMWE5OTYwNjliNDAyOTU5ZjA2N2VlN2MwMDFiNjNjNTgwNDZkODQ3NzE5NjAxNzMxMUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%23f6bf26"
+ height="600"
+ scrolling="no"
+ style="border: solid 1px #777; width: 100%; max-width: 800px">
+</iframe>
 
 ## Satyrn Plaza
 
-These meetings - called Plazas - are fully remote and open to anyone, particularly those who are interested in joining the community!
+Our Plaza meetings are community-wide calls, where we come together to catch-up, get working group updates, and discuss any other topics. The meetings are fully remote and open to anyone, particularly those who are interested in joining the community.
 
-| Date | Notes |
-|------|-------|
-| 2026-08-13 | [Satyrn Plaza Kickoff](https://hackmd.io/5oaVRqE3Sye1XwmtsdNHEA) |
-
-## Web Team meetings
-
-
-## Engine Team meetings
-
-
-## Models Team meetings
-
-
+Notes from the previous meetings can be found here: [Plaza notes](plaza/index.md).
