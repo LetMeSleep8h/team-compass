@@ -4,7 +4,7 @@ The Satyrn.ai community meets periodically to discuss important issues, make dec
 
 ## Meeting calendars
 
-- **Satyrn.ai Community Events Calendar**
+- **Satyrn.ai Calendar**
 
 The community events calendar is embedded below for reference:
 
@@ -19,5 +19,7 @@ The community events calendar is embedded below for reference:
 ## Satyrn Plaza
 
 Our Plaza meetings are community-wide calls, where we come together to catch-up, get working group updates, and discuss any other topics. The meetings are fully remote and open to anyone, particularly those who are interested in joining the community.
+
+We aim to hold these meetings monthly. You can find the meeting link in the events titled "Satyrn Plaza" in the calendar embedded above.
 
 Notes from the previous meetings can be found here: [Plaza notes](plaza/index.md).
